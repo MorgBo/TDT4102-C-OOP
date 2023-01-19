@@ -1,0 +1,2 @@
+# TDT4102-C-OOP
+Course TDT4102, NTNU, spring 2023.
